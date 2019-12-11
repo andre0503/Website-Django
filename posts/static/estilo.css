@@ -9,16 +9,15 @@ img{
 }
 
 nav{
-    display: flex;
     align-items: center;
+    background-color: antiquewhite;
+    display: flex;
+    height: 80px;
     justify-content: space-around;
-    background-color: gold;
-    height: 50px;
+
 }
 
 nav a{
-    color: green;
+    color: indigo;
     font-size: 14pt;
     text-decoration: none;
-}
-
